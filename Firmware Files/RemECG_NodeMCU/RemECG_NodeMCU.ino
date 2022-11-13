@@ -1,9 +1,4 @@
-/*
-  AUTHOR:   Fahim Faisal (embeddedfahim)
-  DATE:     October 28, 2020
-  LICENSE:  Apache 2.0 (Public Domain)
-  CONTACT:  embeddedfahim@gmail.com
-*/
+
 
 #include<SD.h>
 #include<SPI.h>
